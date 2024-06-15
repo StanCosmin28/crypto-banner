@@ -1,6 +1,6 @@
 # crypto-banner
 
-<video loop src="movie.mp4"> video </video> 
+<video loop src="[movie.mp4](https://github.com/StanCosmin28/crypto-banner/assets/94742249/a2501547-4cdc-42aa-aba0-a3ccb218c779)"> video </video> 
 
-![crypto_banner-ezgif com-video-to-gif-converter](https://github.com/StanCosmin28/crypto-banner/assets/94742249/aca9fd8c-75aa-4fea-bec3-71e55a1a7dd7)
+
 

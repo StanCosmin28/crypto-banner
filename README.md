@@ -1,6 +1,10 @@
 # crypto-banner
 
-<video loop autoplay src="https://github.com/StanCosmin28/crypto-banner/assets/94742249/a2501547-4cdc-42aa-aba0-a3ccb218c779"></video> 
 
 
+
+
+
+
+https://github.com/StanCosmin28/crypto-banner/assets/94742249/a1eab757-cffc-41b1-a131-28e0d13efcc3
 
